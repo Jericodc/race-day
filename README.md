@@ -1,4 +1,4 @@
-# race-day
+# Race Day
 
 _This JavaScript program is designed to assist race organizers in registering runners and providing instructions for race day. The program allows both adult and youth runners to register early or late and assigns a race number and start time based on their age and registration._
 
